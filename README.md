@@ -9,7 +9,7 @@ PODCAST do Bootcamp de Engenharia de Prompt - Microsoft. Podcast feito com IA a 
 
 # 🧩Como foi feito ?
 
-- Roteiro gerado pelo chatgpt
-- Audio gerado pela elevenLabs
+- Roteiro feito pelo chatgpt a partir dos conhecimentos de prompt adquiridos no Bootcamp
+- Audio gerado pela elevenLabs por recomendação dos tutores
 - Microsoft Copilot para gerar imagens
-- Capcut para editar áudio e efeitos sonoros do Podcast
+- Capcut para editar áudio e efeitos sonoros do Podcast por recomendação dos tutores
